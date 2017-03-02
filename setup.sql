@@ -44,3 +44,5 @@ set echo on
 		commit;
 	grant select on php_authentication to phpuser;
 
+-- to kinds of insert into parts(ID,CATEGORY,NAMAE)
+--  values('elctrical','lamp','1')
