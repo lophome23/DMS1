@@ -46,3 +46,6 @@ set echo on
 
 -- to kinds of insert into parts(ID,CATEGORY,NAMAE)
 --  values('elctrical','lamp','1')
+
+-- Run SQLPLUS by typing sqlplus system/amakal @setup.sql
+--cd xampp\htdocs\activity 7
